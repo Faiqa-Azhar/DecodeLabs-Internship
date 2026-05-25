@@ -1,0 +1,8 @@
+Libraries for Mall Customer Analysis
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+google colab
